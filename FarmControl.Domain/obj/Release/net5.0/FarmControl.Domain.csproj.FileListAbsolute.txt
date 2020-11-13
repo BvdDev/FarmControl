@@ -1,0 +1,15 @@
+C:\Development\FarmControl\FarmControl.Domain\bin\Release\net5.0\FarmControl.Domain.deps.json
+C:\Development\FarmControl\FarmControl.Domain\bin\Release\net5.0\FarmControl.Domain.runtimeconfig.json
+C:\Development\FarmControl\FarmControl.Domain\bin\Release\net5.0\FarmControl.Domain.runtimeconfig.dev.json
+C:\Development\FarmControl\FarmControl.Domain\bin\Release\net5.0\FarmControl.Domain.dll
+C:\Development\FarmControl\FarmControl.Domain\bin\Release\net5.0\ref\FarmControl.Domain.dll
+C:\Development\FarmControl\FarmControl.Domain\bin\Release\net5.0\FarmControl.Domain.pdb
+C:\Development\FarmControl\FarmControl.Domain\obj\Release\net5.0\FarmControl.Domain.csprojAssemblyReference.cache
+C:\Development\FarmControl\FarmControl.Domain\obj\Release\net5.0\FarmControl.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\FarmControl\FarmControl.Domain\obj\Release\net5.0\FarmControl.Domain.AssemblyInfoInputs.cache
+C:\Development\FarmControl\FarmControl.Domain\obj\Release\net5.0\FarmControl.Domain.AssemblyInfo.cs
+C:\Development\FarmControl\FarmControl.Domain\obj\Release\net5.0\FarmControl.Domain.csproj.CoreCompileInputs.cache
+C:\Development\FarmControl\FarmControl.Domain\obj\Release\net5.0\FarmControl.Domain.dll
+C:\Development\FarmControl\FarmControl.Domain\obj\Release\net5.0\ref\FarmControl.Domain.dll
+C:\Development\FarmControl\FarmControl.Domain\obj\Release\net5.0\FarmControl.Domain.pdb
+C:\Development\FarmControl\FarmControl.Domain\obj\Release\net5.0\FarmControl.Domain.genruntimeconfig.cache

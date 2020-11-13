@@ -1,0 +1,3192 @@
+{
+  "program": {
+    "fileInfos": {
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es5.d.ts": {
+        "version": "a505bbfca4a48cf12f0ae7d03e5cbf4d7801775523c10aef9d1703c3ed839045",
+        "signature": "a505bbfca4a48cf12f0ae7d03e5cbf4d7801775523c10aef9d1703c3ed839045",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2015.d.ts": {
+        "version": "e8d2e50f9e8fdd312d31f97571b4c7295b8f29f7f8363498edae2a9eb113ee36",
+        "signature": "e8d2e50f9e8fdd312d31f97571b4c7295b8f29f7f8363498edae2a9eb113ee36",
+        "affectsGlobalScope": false
+      },
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2016.d.ts": {
+        "version": "4b1854aec637e8e041eff02899e16fd3c0c78685c622336aadfd67e6604bbe1b",
+        "signature": "4b1854aec637e8e041eff02899e16fd3c0c78685c622336aadfd67e6604bbe1b",
+        "affectsGlobalScope": false
+      },
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2017.d.ts": {
+        "version": "d6f7d47355a0167969e9a8eedfb0994f21e038d360965ec06c30f6871038900b",
+        "signature": "d6f7d47355a0167969e9a8eedfb0994f21e038d360965ec06c30f6871038900b",
+        "affectsGlobalScope": false
+      },
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2018.d.ts": {
+        "version": "4735756aff7c5857de387f321633f272e2daba4950c427ab200de954340c7c13",
+        "signature": "4735756aff7c5857de387f321633f272e2daba4950c427ab200de954340c7c13",
+        "affectsGlobalScope": false
+      },
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.dom.d.ts": {
+        "version": "33f28f947c30883aace22f874f557e4d8ea2de963c2aaf734c42be2d2d324bb8",
+        "signature": "33f28f947c30883aace22f874f557e4d8ea2de963c2aaf734c42be2d2d324bb8",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.dom.iterable.d.ts": {
+        "version": "23ae26074a026d3a1d81c081ae659936617a89d2ac50e07aa8b814c4fa3ff388",
+        "signature": "23ae26074a026d3a1d81c081ae659936617a89d2ac50e07aa8b814c4fa3ff388",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.webworker.importscripts.d.ts": {
+        "version": "c364b5b0e0598d670c5ef4468e6e256c8d3a26b229e7699b6499befb2978373f",
+        "signature": "c364b5b0e0598d670c5ef4468e6e256c8d3a26b229e7699b6499befb2978373f",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.scripthost.d.ts": {
+        "version": "3c7bf0c38d837f3bcc222f55d3b1a5808dbbcb13dba2a891a0956e8d2625ae26",
+        "signature": "3c7bf0c38d837f3bcc222f55d3b1a5808dbbcb13dba2a891a0956e8d2625ae26",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2015.core.d.ts": {
+        "version": "0e37e1b8effb51f822e0c188cb5551f08c26726ed3851e0c6b81cd4fe9da6565",
+        "signature": "0e37e1b8effb51f822e0c188cb5551f08c26726ed3851e0c6b81cd4fe9da6565",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2015.collection.d.ts": {
+        "version": "5a8c535851f6cb0d376f135a2a6640dec8070d48d03072c2f1ab70528d7cb4fe",
+        "signature": "5a8c535851f6cb0d376f135a2a6640dec8070d48d03072c2f1ab70528d7cb4fe",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2015.generator.d.ts": {
+        "version": "28065193ddf88bf697915b9236d2d00a27e85726563e88474f166790376e10d8",
+        "signature": "28065193ddf88bf697915b9236d2d00a27e85726563e88474f166790376e10d8",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2015.iterable.d.ts": {
+        "version": "841d95749d40a85708dd0419aa5c312702e493dfb27bdde405ea567289e41b26",
+        "signature": "841d95749d40a85708dd0419aa5c312702e493dfb27bdde405ea567289e41b26",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2015.promise.d.ts": {
+        "version": "e65130331c5ec60e3a9857cfd3ddacc31f7dacbb6676090bc1d49118fb922603",
+        "signature": "e65130331c5ec60e3a9857cfd3ddacc31f7dacbb6676090bc1d49118fb922603",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2015.proxy.d.ts": {
+        "version": "5d198e9dff9dee7a362a8fa4ec1c8a6ea842fafa2c882a64dab3b5c71f33b19e",
+        "signature": "5d198e9dff9dee7a362a8fa4ec1c8a6ea842fafa2c882a64dab3b5c71f33b19e",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2015.reflect.d.ts": {
+        "version": "378046398977a38b534922c0ce8f5adcb9fdadca2979c2f3f83b0030f1357ee7",
+        "signature": "378046398977a38b534922c0ce8f5adcb9fdadca2979c2f3f83b0030f1357ee7",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2015.symbol.d.ts": {
+        "version": "e5d8d715990d96a37f3521a3f1460679507b261eec1b42dc84d4de835997b794",
+        "signature": "e5d8d715990d96a37f3521a3f1460679507b261eec1b42dc84d4de835997b794",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "4283d30a69dd45500e6c201e3d7bf25b88470929388e3efefd54051a277cefd9",
+        "signature": "4283d30a69dd45500e6c201e3d7bf25b88470929388e3efefd54051a277cefd9",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2016.array.include.d.ts": {
+        "version": "a003a6051b48dc64eaa8ad83789e4c2a540f3482bed821053b6770969bd598fb",
+        "signature": "a003a6051b48dc64eaa8ad83789e4c2a540f3482bed821053b6770969bd598fb",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2017.object.d.ts": {
+        "version": "e90857fa86cecc3bc964a2d7db9d95a0c406bebfadeb4853a01a0079936f12f7",
+        "signature": "e90857fa86cecc3bc964a2d7db9d95a0c406bebfadeb4853a01a0079936f12f7",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2017.sharedmemory.d.ts": {
+        "version": "c39afb178b10694cf6274631b58c25d70565a9e1b0d6331742edf1bdb97b641d",
+        "signature": "c39afb178b10694cf6274631b58c25d70565a9e1b0d6331742edf1bdb97b641d",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2017.string.d.ts": {
+        "version": "5044747370afee4b4c247e8a14c2969d245bbcf8396295dc5a60c659d796a71f",
+        "signature": "5044747370afee4b4c247e8a14c2969d245bbcf8396295dc5a60c659d796a71f",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2017.intl.d.ts": {
+        "version": "d42841f3fb4fc368f35cba018a81bd0b38f1d00ae9b0449a63ab47ac1bcaba10",
+        "signature": "d42841f3fb4fc368f35cba018a81bd0b38f1d00ae9b0449a63ab47ac1bcaba10",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2017.typedarrays.d.ts": {
+        "version": "a894424c7058bcc77c1a3c92fe289c0ff93792e583e064c683d021879479f7b8",
+        "signature": "a894424c7058bcc77c1a3c92fe289c0ff93792e583e064c683d021879479f7b8",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2018.asyncgenerator.d.ts": {
+        "version": "8f03386d697248c5d356fd53f2729b920ea124cd1414a6c22de03c5d24729277",
+        "signature": "8f03386d697248c5d356fd53f2729b920ea124cd1414a6c22de03c5d24729277",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2018.asynciterable.d.ts": {
+        "version": "939977970c14d9ee2e52b722896e1279a7ba955d6f561e671e4f9d91a0ff6aa4",
+        "signature": "939977970c14d9ee2e52b722896e1279a7ba955d6f561e671e4f9d91a0ff6aa4",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2018.intl.d.ts": {
+        "version": "e9174c5ffd9983fd688f9c2374412de678459c33161f4990a1fe171552705263",
+        "signature": "e9174c5ffd9983fd688f9c2374412de678459c33161f4990a1fe171552705263",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2018.promise.d.ts": {
+        "version": "fe7acdc1039eca904399190766d1c8766b7d2621413f972c8542dddd69612097",
+        "signature": "fe7acdc1039eca904399190766d1c8766b7d2621413f972c8542dddd69612097",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2018.regexp.d.ts": {
+        "version": "c25aa843b930662d62f0e853dd1f347d08b66cdec09bd760151d4ba6ce220fe6",
+        "signature": "c25aa843b930662d62f0e853dd1f347d08b66cdec09bd760151d4ba6ce220fe6",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2020.bigint.d.ts": {
+        "version": "730aa536cb2704eff9eb43ab551eaf2a28fd9155975bc13b42240d217d60959d",
+        "signature": "730aa536cb2704eff9eb43ab551eaf2a28fd9155975bc13b42240d217d60959d",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.esnext.intl.d.ts": {
+        "version": "f7b5f5a0faa894afd5d132a7d283672b50080423ebd8517eaf7700f6e482576a",
+        "signature": "f7b5f5a0faa894afd5d132a7d283672b50080423ebd8517eaf7700f6e482576a",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2018.full.d.ts": {
+        "version": "0fa28ad68a81a76a9add30972ba39d29ae6b55fa9122e19ab15e7a251bd142ca",
+        "signature": "0fa28ad68a81a76a9add30972ba39d29ae6b55fa9122e19ab15e7a251bd142ca",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/vue/types/vnode.d.ts": {
+        "version": "336721337da7deac683208a3089786c32cd834fd7e992cc2a9de5abd6100d8aa",
+        "signature": "336721337da7deac683208a3089786c32cd834fd7e992cc2a9de5abd6100d8aa",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/vue/types/options.d.ts": {
+        "version": "29d822e82e30d391f7a36a6daf63f7e50cef3039347ca6b5b9b08a1383e72202",
+        "signature": "29d822e82e30d391f7a36a6daf63f7e50cef3039347ca6b5b9b08a1383e72202",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/vue/types/plugin.d.ts": {
+        "version": "e8cc0280272ae461f8dc6eef59712323d9eea7abfd455a8d4861601f3c5a9a6f",
+        "signature": "e8cc0280272ae461f8dc6eef59712323d9eea7abfd455a8d4861601f3c5a9a6f",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/vue/types/vue.d.ts": {
+        "version": "c483036e3c3aea2c4b7d435120543bea042a68aa38e56b91344678384357eb27",
+        "signature": "c483036e3c3aea2c4b7d435120543bea042a68aa38e56b91344678384357eb27",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/vue/types/index.d.ts": {
+        "version": "9c80b4cff1771ae664e05882499c773861ea4d81d6cbf8e2a3e6dc61ab6a6f42",
+        "signature": "9c80b4cff1771ae664e05882499c773861ea4d81d6cbf8e2a3e6dc61ab6a6f42",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/bootstrap-vue/src/components/modal/index.d.ts": {
+        "version": "710bd3883465e5de2d3493455ba3c50431028a92da86fbeaa7780e2afe55a6c9",
+        "signature": "710bd3883465e5de2d3493455ba3c50431028a92da86fbeaa7780e2afe55a6c9",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/bootstrap-vue/src/components/toast/index.d.ts": {
+        "version": "5cb0ff46e8a86548b132db35f8cf657f40a168c0dc0dcea023ceca6905afbc8e",
+        "signature": "5cb0ff46e8a86548b132db35f8cf657f40a168c0dc0dcea023ceca6905afbc8e",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/bootstrap-vue/src/vue-injections.d.ts": {
+        "version": "8f68cb2a75e07921badc90d9cdf66bbad99b8fff7dd24a2a76f4cb70a29e9306",
+        "signature": "8f68cb2a75e07921badc90d9cdf66bbad99b8fff7dd24a2a76f4cb70a29e9306",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/bootstrap-vue/src/bv-config.d.ts": {
+        "version": "92d7ae630111ab22a6820b4d5b631d386b9dae348ccc78b50a2eb5dea318c52d",
+        "signature": "92d7ae630111ab22a6820b4d5b631d386b9dae348ccc78b50a2eb5dea318c52d",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/bootstrap-vue/src/components/alert/index.d.ts": {
+        "version": "f59949d5933b926f8a45605e1b12a7359f0bf213abc4874668d9a4516fb3eada",
+        "signature": "f59949d5933b926f8a45605e1b12a7359f0bf213abc4874668d9a4516fb3eada",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/bootstrap-vue/src/components/badge/index.d.ts": {
+        "version": "402f748f4b859aef6b3e1e8c64ba817f39a2393c5ad4090502019bfe29865ecd",
+        "signature": "402f748f4b859aef6b3e1e8c64ba817f39a2393c5ad4090502019bfe29865ecd",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/bootstrap-vue/src/components/breadcrumb/index.d.ts": {
+        "version": "2f3cf34953f79711b41a46fa296a7ba6f0e419a15c57e701d040d2dde22b0007",
+        "signature": "2f3cf34953f79711b41a46fa296a7ba6f0e419a15c57e701d040d2dde22b0007",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/bootstrap-vue/src/components/button/index.d.ts": {
+        "version": "688e9b581055346c3cbc954564d7cfd0022fcff59f3dd903143dc820ec503f71",
+        "signature": "688e9b581055346c3cbc954564d7cfd0022fcff59f3dd903143dc820ec503f71",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/bootstrap-vue/src/components/button-group/index.d.ts": {
+        "version": "cb865cb6baa4a0e0cd4e97387dc7d4f2c4839b8f0f1a3ef0f2960118c6542899",
+        "signature": "cb865cb6baa4a0e0cd4e97387dc7d4f2c4839b8f0f1a3ef0f2960118c6542899",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/bootstrap-vue/src/components/button-toolbar/index.d.ts": {
+        "version": "372e9a3fcfcc1c0d3488c5099c7ca3647f0dff325a73d6e7273461cb7c674290",
+        "signature": "372e9a3fcfcc1c0d3488c5099c7ca3647f0dff325a73d6e7273461cb7c674290",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/bootstrap-vue/src/components/card/index.d.ts": {
+        "version": "f4e5e14ed3acbc8586ec62fbf92e1e405006542b79a4d546cfc025b3f8b65d98",
+        "signature": "f4e5e14ed3acbc8586ec62fbf92e1e405006542b79a4d546cfc025b3f8b65d98",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/bootstrap-vue/src/components/carousel/index.d.ts": {
+        "version": "6b265eab3cf8d2de140f514e81e3f0e8d854897644c8c1ecf6bbad9d5da489a6",
+        "signature": "6b265eab3cf8d2de140f514e81e3f0e8d854897644c8c1ecf6bbad9d5da489a6",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/bootstrap-vue/src/components/collapse/index.d.ts": {
+        "version": "48591f696be2e2871f6f96a358dfaa9151fefde3de102e08099d6679d2554107",
+        "signature": "48591f696be2e2871f6f96a358dfaa9151fefde3de102e08099d6679d2554107",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/bootstrap-vue/src/components/dropdown/index.d.ts": {
+        "version": "e44eec40c99fd69a63ba7911e768d2835ed4616d2ae1a773a8d97639b66f8f6a",
+        "signature": "e44eec40c99fd69a63ba7911e768d2835ed4616d2ae1a773a8d97639b66f8f6a",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/bootstrap-vue/src/components/embed/index.d.ts": {
+        "version": "a3849c9de499b5e031d99a83186e628af8dcea6b7edfb0da05966d80de137159",
+        "signature": "a3849c9de499b5e031d99a83186e628af8dcea6b7edfb0da05966d80de137159",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/bootstrap-vue/src/components/form/index.d.ts": {
+        "version": "547bba020ae12c58265dbd58eeffff786c3b9884325bdde7d7726381f40e4a53",
+        "signature": "547bba020ae12c58265dbd58eeffff786c3b9884325bdde7d7726381f40e4a53",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/bootstrap-vue/src/components/form-checkbox/index.d.ts": {
+        "version": "ab008d7839e57a3c9852a6f623acde389d44af9d96743aee56bdb6235a09707f",
+        "signature": "ab008d7839e57a3c9852a6f623acde389d44af9d96743aee56bdb6235a09707f",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/bootstrap-vue/src/components/form-file/index.d.ts": {
+        "version": "b3055533e900190d4fee07314371848b8fcfe6fc5a3c7dfe000f3a1d3204be90",
+        "signature": "b3055533e900190d4fee07314371848b8fcfe6fc5a3c7dfe000f3a1d3204be90",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/bootstrap-vue/src/components/form-group/index.d.ts": {
+        "version": "c64b708f0bb2210c2207f2ea3dd7f7eae1570ec1d6377f609cce905538373653",
+        "signature": "c64b708f0bb2210c2207f2ea3dd7f7eae1570ec1d6377f609cce905538373653",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/bootstrap-vue/src/components/form-input/index.d.ts": {
+        "version": "592b94313a16d6006f6c3ccf342cd420269bc72b5784b16632331d011691de02",
+        "signature": "592b94313a16d6006f6c3ccf342cd420269bc72b5784b16632331d011691de02",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/bootstrap-vue/src/components/form-radio/index.d.ts": {
+        "version": "9095876a7694f2b6617332be5f12bb855c8ab1a89a10b3173be06db69e1d5efe",
+        "signature": "9095876a7694f2b6617332be5f12bb855c8ab1a89a10b3173be06db69e1d5efe",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/bootstrap-vue/src/components/form-select/index.d.ts": {
+        "version": "e691827a6e6ed53d52f2be6f4c4cfd62bd5f87877a4ad995f6c92ec7ac3ebe24",
+        "signature": "e691827a6e6ed53d52f2be6f4c4cfd62bd5f87877a4ad995f6c92ec7ac3ebe24",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/bootstrap-vue/src/components/form-textarea/index.d.ts": {
+        "version": "a8e33e29c5cea5ebe3d3e48df5814ff7a63318c27d0ce9140f8a6b67d865a20d",
+        "signature": "a8e33e29c5cea5ebe3d3e48df5814ff7a63318c27d0ce9140f8a6b67d865a20d",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/bootstrap-vue/src/components/image/index.d.ts": {
+        "version": "8727e4705dfb2a82c989ede4c215da4dc588af25a29f6802ba7cc5b1fb106236",
+        "signature": "8727e4705dfb2a82c989ede4c215da4dc588af25a29f6802ba7cc5b1fb106236",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/bootstrap-vue/src/components/input-group/index.d.ts": {
+        "version": "31ff590f314fbeee3264900801e5c25649f0a2f98f954abf430160198b7d5de6",
+        "signature": "31ff590f314fbeee3264900801e5c25649f0a2f98f954abf430160198b7d5de6",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/bootstrap-vue/src/components/jumbotron/index.d.ts": {
+        "version": "37746e2f4dd6366630a12e4c2cd2b64129a8bec6dd157fc4eae768c461938ff1",
+        "signature": "37746e2f4dd6366630a12e4c2cd2b64129a8bec6dd157fc4eae768c461938ff1",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/bootstrap-vue/src/components/layout/index.d.ts": {
+        "version": "a9b02f90365cba10126c291d2de433358545f16f2fad4767587117955ca219b5",
+        "signature": "a9b02f90365cba10126c291d2de433358545f16f2fad4767587117955ca219b5",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/bootstrap-vue/src/components/link/index.d.ts": {
+        "version": "c117b47fb06503fd80c21e36682af9ffe21af4d5b3b0198b1d5c10865d2b19a5",
+        "signature": "c117b47fb06503fd80c21e36682af9ffe21af4d5b3b0198b1d5c10865d2b19a5",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/bootstrap-vue/src/components/list-group/index.d.ts": {
+        "version": "3c2f24c81e725b0a74cc1110192b55453722eba4f14a931d59dbeef0b4998d7e",
+        "signature": "3c2f24c81e725b0a74cc1110192b55453722eba4f14a931d59dbeef0b4998d7e",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/bootstrap-vue/src/components/media/index.d.ts": {
+        "version": "e04dd061c89ac559d1e6c92a13b34860aadde44b6a7a7fd49d38737aea664f62",
+        "signature": "e04dd061c89ac559d1e6c92a13b34860aadde44b6a7a7fd49d38737aea664f62",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/bootstrap-vue/src/components/nav/index.d.ts": {
+        "version": "e819d12b4e64a142c3a50805f00534b0987091c0e301d646c454ce86d8ceadaa",
+        "signature": "e819d12b4e64a142c3a50805f00534b0987091c0e301d646c454ce86d8ceadaa",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/bootstrap-vue/src/components/navbar/index.d.ts": {
+        "version": "caadea31190257530b1aab48f278e8f585fda5a0fd57876de276c162a91bf1ae",
+        "signature": "caadea31190257530b1aab48f278e8f585fda5a0fd57876de276c162a91bf1ae",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/bootstrap-vue/src/components/pagination/index.d.ts": {
+        "version": "27a8e0b75ba7fc770d2063f06edad99ad20e232162533684bf93616202240bdc",
+        "signature": "27a8e0b75ba7fc770d2063f06edad99ad20e232162533684bf93616202240bdc",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/bootstrap-vue/src/components/pagination-nav/index.d.ts": {
+        "version": "0b0ad4bc4ad864fcef63b8de44e1f72f2cdbca6e7294762bf7bf8db373eee49c",
+        "signature": "0b0ad4bc4ad864fcef63b8de44e1f72f2cdbca6e7294762bf7bf8db373eee49c",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/bootstrap-vue/src/components/popover/index.d.ts": {
+        "version": "87e15d875ca149611d2e2db9be4bfcc80c7cab036cba3d06a03ba39791c16780",
+        "signature": "87e15d875ca149611d2e2db9be4bfcc80c7cab036cba3d06a03ba39791c16780",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/bootstrap-vue/src/components/progress/index.d.ts": {
+        "version": "09320e76b05cadaba2c398296f8c6cd5383a4afbbeb93f89c0bc98e93ad8dbd5",
+        "signature": "09320e76b05cadaba2c398296f8c6cd5383a4afbbeb93f89c0bc98e93ad8dbd5",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/bootstrap-vue/src/components/spinner/index.d.ts": {
+        "version": "aaa5f86ac98da8372266212b61e5c52a1742d4d701c7cba7036c95b68d35b9b9",
+        "signature": "aaa5f86ac98da8372266212b61e5c52a1742d4d701c7cba7036c95b68d35b9b9",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/bootstrap-vue/src/components/table/index.d.ts": {
+        "version": "4ff99227051aae3542bec6d73bb99b09de11a450c7a99ed7d2d93f2f577c3472",
+        "signature": "4ff99227051aae3542bec6d73bb99b09de11a450c7a99ed7d2d93f2f577c3472",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/bootstrap-vue/src/components/tabs/index.d.ts": {
+        "version": "ece3520dab6804757c12dcb3761ee1e400042c1f7d4b9e875dcb50ce88977fc3",
+        "signature": "ece3520dab6804757c12dcb3761ee1e400042c1f7d4b9e875dcb50ce88977fc3",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/bootstrap-vue/src/components/tooltip/index.d.ts": {
+        "version": "3cb179d6ba20074b79f372002cfbdf0c8f388faeb452c118db12b7ce597ab7ae",
+        "signature": "3cb179d6ba20074b79f372002cfbdf0c8f388faeb452c118db12b7ce597ab7ae",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/bootstrap-vue/src/components/index.d.ts": {
+        "version": "24d0f805ab03ca4ad34454c0d3ccae0342fd1bba819a6da6bd3f7bbe2babbefd",
+        "signature": "24d0f805ab03ca4ad34454c0d3ccae0342fd1bba819a6da6bd3f7bbe2babbefd",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/bootstrap-vue/src/directives/toggle/index.d.ts": {
+        "version": "2ef119d684119695c43655ddc74ac0947dab6590bff13f529462966d3c02e7df",
+        "signature": "2ef119d684119695c43655ddc74ac0947dab6590bff13f529462966d3c02e7df",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/bootstrap-vue/src/directives/modal/index.d.ts": {
+        "version": "b90d967f56d4e03d468cde43e58032d76f458d57423d189bd208c0f6e2110374",
+        "signature": "b90d967f56d4e03d468cde43e58032d76f458d57423d189bd208c0f6e2110374",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/bootstrap-vue/src/directives/scrollspy/index.d.ts": {
+        "version": "90ec2f8d4073c3b55c3eacc5012e7a540405c6c21680cb317cc5a0cf087c6167",
+        "signature": "90ec2f8d4073c3b55c3eacc5012e7a540405c6c21680cb317cc5a0cf087c6167",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/bootstrap-vue/src/directives/tooltip/index.d.ts": {
+        "version": "d88181725c4a7ea28a0250218093728e4741333d8df6930eadc97ad14cd938a9",
+        "signature": "d88181725c4a7ea28a0250218093728e4741333d8df6930eadc97ad14cd938a9",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/bootstrap-vue/src/directives/popover/index.d.ts": {
+        "version": "ffd9cb634b88a9d9b9ba455f9286556885b7944fe389144bdf2ef3930aec88e3",
+        "signature": "ffd9cb634b88a9d9b9ba455f9286556885b7944fe389144bdf2ef3930aec88e3",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/bootstrap-vue/src/directives/index.d.ts": {
+        "version": "3efce9380601d8c8603c6bad6b178bdbfc8d15a8a3ad40cd60c1e12217ebb98f",
+        "signature": "3efce9380601d8c8603c6bad6b178bdbfc8d15a8a3ad40cd60c1e12217ebb98f",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/bootstrap-vue/src/index.d.ts": {
+        "version": "cc3ca1bfb7b9021160166a80839073f862d7d19ce55ab9af8c2c8fe1f58645f1",
+        "signature": "cc3ca1bfb7b9021160166a80839073f862d7d19ce55ab9af8c2c8fe1f58645f1",
+        "affectsGlobalScope": false
+      },
+      "../../src/model/init.ts": {
+        "version": "6a8fcd3f9c6124a8e3a20cca9c06aa3176a1b6b652f63eebe7b4d1d0bb104971",
+        "signature": "f423b9fce2e283675958df0211ec82baf0e04ac770afdd1209e2f09b2df86b68",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/vue-router/types/vue.d.ts": {
+        "version": "b56d9393ffa742581df97083f418938976ee0c8e576abfd06c1da35a5b7e84e4",
+        "signature": "b56d9393ffa742581df97083f418938976ee0c8e576abfd06c1da35a5b7e84e4",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/vue-router/types/router.d.ts": {
+        "version": "839e24a71cd85d7987274e2c3187ab5b0684323173312361e762bc1c70a22525",
+        "signature": "839e24a71cd85d7987274e2c3187ab5b0684323173312361e762bc1c70a22525",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/vue-router/types/index.d.ts": {
+        "version": "7b76587d38c81f08442bf94dbedd9d77185e4c9566b767cd3c21c6f05138c6c4",
+        "signature": "7b76587d38c81f08442bf94dbedd9d77185e4c9566b767cd3c21c6f05138c6c4",
+        "affectsGlobalScope": false
+      },
+      "../../src/model/routing.ts": {
+        "version": "16575ebf01dfa2094707b12cd77f21f936147921a441b41bb42ab574ce7212b9",
+        "signature": "e8bece8f866cb2ac98d80e8de22a3e47a03e5b7202c7759c1ec37f5e3ab13daa",
+        "affectsGlobalScope": false
+      },
+      "../../src/main.ts": {
+        "version": "8745f30adf8940cb82ef09f6a4750d70b4651f5f5665b834fd173f53e50ec215",
+        "signature": "489e8e7a509b7df32d3ed708dedd5cc58f317a36415f6e67429df920428e652f",
+        "affectsGlobalScope": false
+      },
+      "../../src/vue-shims.d.ts": {
+        "version": "0343338dab94364cf72d111a0157f666b246ee70226684486bdade4e0878cef3",
+        "signature": "0343338dab94364cf72d111a0157f666b246ee70226684486bdade4e0878cef3",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/color-name/index.d.ts": {
+        "version": "f0cb4b3ab88193e3e51e9e2622e4c375955003f1f81239d72c5b7a95415dad3e",
+        "signature": "f0cb4b3ab88193e3e51e9e2622e4c375955003f1f81239d72c5b7a95415dad3e",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/events/index.d.ts": {
+        "version": "400db42c3a46984118bff14260d60cec580057dc1ab4c2d7310beb643e4f5935",
+        "signature": "400db42c3a46984118bff14260d60cec580057dc1ab4c2d7310beb643e4f5935",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/node/globals.d.ts": {
+        "version": "05c42320698cb6eb4052d68ef35a0f3b88291b9275f13e9a188b96119844c5b6",
+        "signature": "05c42320698cb6eb4052d68ef35a0f3b88291b9275f13e9a188b96119844c5b6",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/@types/node/assert.d.ts": {
+        "version": "7860312f33f0cf2c93500787d02c4cc43ea3d0c080d4781095ac7715d5da3316",
+        "signature": "7860312f33f0cf2c93500787d02c4cc43ea3d0c080d4781095ac7715d5da3316",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/node/async_hooks.d.ts": {
+        "version": "1305b079a057355f496bdde048716189178877a6b4fe0e9267a46af67f8c7561",
+        "signature": "1305b079a057355f496bdde048716189178877a6b4fe0e9267a46af67f8c7561",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/node/buffer.d.ts": {
+        "version": "61215c1a376bbe8f51cab4cc4ddbf3746387015113c37a84d981d4738c21b878",
+        "signature": "61215c1a376bbe8f51cab4cc4ddbf3746387015113c37a84d981d4738c21b878",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/node/child_process.d.ts": {
+        "version": "4c50c12d023c7ba3b08aed969b723594bf74e5c5a6c80b421d8664bf22c3c072",
+        "signature": "4c50c12d023c7ba3b08aed969b723594bf74e5c5a6c80b421d8664bf22c3c072",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/node/cluster.d.ts": {
+        "version": "ce629710e5e58724902b753212e97861fd73e2aa09f5d88cb6d55dc763cf8c8a",
+        "signature": "ce629710e5e58724902b753212e97861fd73e2aa09f5d88cb6d55dc763cf8c8a",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/node/console.d.ts": {
+        "version": "525c8fc510d9632d2a0a9de2d41c3ac1cdd79ff44d3b45c6d81cacabb683528d",
+        "signature": "525c8fc510d9632d2a0a9de2d41c3ac1cdd79ff44d3b45c6d81cacabb683528d",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/node/constants.d.ts": {
+        "version": "0279383034fae92db8097d0a41350293553599cc9c3c917b60e2542d0dfcbd44",
+        "signature": "0279383034fae92db8097d0a41350293553599cc9c3c917b60e2542d0dfcbd44",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/node/crypto.d.ts": {
+        "version": "3b6e751fc790e939efc4352e950b59be8c8e23c6e2bca2cf7359788b53f70485",
+        "signature": "3b6e751fc790e939efc4352e950b59be8c8e23c6e2bca2cf7359788b53f70485",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/node/dgram.d.ts": {
+        "version": "387656ed4d6444031a0042c38701167e77ff5f4698ada32737082fbee76b1db0",
+        "signature": "387656ed4d6444031a0042c38701167e77ff5f4698ada32737082fbee76b1db0",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/node/dns.d.ts": {
+        "version": "ef226a42de7022eacdfa0f15aabf73b46c47af93044c8ebfab8aa8e3cf6c330c",
+        "signature": "ef226a42de7022eacdfa0f15aabf73b46c47af93044c8ebfab8aa8e3cf6c330c",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/node/domain.d.ts": {
+        "version": "d5b7c8819ce1bd31a45f7675309e145ec28e3aa1b60a8e0637fd0e8916255baa",
+        "signature": "d5b7c8819ce1bd31a45f7675309e145ec28e3aa1b60a8e0637fd0e8916255baa",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/node/events.d.ts": {
+        "version": "3ad728027671c2c3c829e21803f8d7a15b29d808293644d50d928213280c072d",
+        "signature": "3ad728027671c2c3c829e21803f8d7a15b29d808293644d50d928213280c072d",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/node/fs.d.ts": {
+        "version": "91b0f655867e04d42d86347eb12b78316faed8bd2c75a7f8400e43e9e34e4ebd",
+        "signature": "91b0f655867e04d42d86347eb12b78316faed8bd2c75a7f8400e43e9e34e4ebd",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/node/http.d.ts": {
+        "version": "4fd41897e21cc6def2735221fa7bd0986b44e44d224939a20f9e173ba2255646",
+        "signature": "4fd41897e21cc6def2735221fa7bd0986b44e44d224939a20f9e173ba2255646",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/node/http2.d.ts": {
+        "version": "272c8598c3a29a3fa3027bd0a645c5f49b3f7832dfcf8e47b7260843ec8a40f3",
+        "signature": "272c8598c3a29a3fa3027bd0a645c5f49b3f7832dfcf8e47b7260843ec8a40f3",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/node/https.d.ts": {
+        "version": "dacbe08610729f6343ea9880ea8e737c6d7a6efa4a318d8f6acaf85db4aceed6",
+        "signature": "dacbe08610729f6343ea9880ea8e737c6d7a6efa4a318d8f6acaf85db4aceed6",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/node/inspector.d.ts": {
+        "version": "4218ced3933a31eed1278d350dd63c5900df0f0904f57d61c054d7a4b83dbe4c",
+        "signature": "4218ced3933a31eed1278d350dd63c5900df0f0904f57d61c054d7a4b83dbe4c",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/node/module.d.ts": {
+        "version": "03394bf8deb8781b490ae9266a843fbdf00647947d79e25fcbf1d89a9e9c8a66",
+        "signature": "03394bf8deb8781b490ae9266a843fbdf00647947d79e25fcbf1d89a9e9c8a66",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/node/net.d.ts": {
+        "version": "358398fe4034395d85c87c319cca7a04001434b13dc68d067481ecb374385bfc",
+        "signature": "358398fe4034395d85c87c319cca7a04001434b13dc68d067481ecb374385bfc",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/node/os.d.ts": {
+        "version": "d9bc6f1917c24d862a68d2633e4a32fd586bfe3e412e5d11fd07d8266b94ced5",
+        "signature": "d9bc6f1917c24d862a68d2633e4a32fd586bfe3e412e5d11fd07d8266b94ced5",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/node/path.d.ts": {
+        "version": "5fb30076f0e0e5744db8993648bfb67aadd895f439edad5cce039127a87a8a36",
+        "signature": "5fb30076f0e0e5744db8993648bfb67aadd895f439edad5cce039127a87a8a36",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/node/perf_hooks.d.ts": {
+        "version": "27ef4001526ee9d8afa57687a60bb3b59c52b32d29db0a2260094ab64726164f",
+        "signature": "27ef4001526ee9d8afa57687a60bb3b59c52b32d29db0a2260094ab64726164f",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/node/process.d.ts": {
+        "version": "0e0d58f5e90c0a270dac052b9c5ad8ccdfc8271118c2105b361063218d528d6e",
+        "signature": "0e0d58f5e90c0a270dac052b9c5ad8ccdfc8271118c2105b361063218d528d6e",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/@types/node/punycode.d.ts": {
+        "version": "30ec6f9c683b988c3cfaa0c4690692049c4e7ed7dc6f6e94f56194c06b86f5e1",
+        "signature": "30ec6f9c683b988c3cfaa0c4690692049c4e7ed7dc6f6e94f56194c06b86f5e1",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/node/querystring.d.ts": {
+        "version": "5b34786b5d59b4e627c76f1294a00b5e92260a31ca87b29d9b7cb9acd3ba1acc",
+        "signature": "5b34786b5d59b4e627c76f1294a00b5e92260a31ca87b29d9b7cb9acd3ba1acc",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/node/readline.d.ts": {
+        "version": "d08dfb553aa396ac399e7c67e24f6b964b12a49e99d245009c7c579827f6d5f2",
+        "signature": "d08dfb553aa396ac399e7c67e24f6b964b12a49e99d245009c7c579827f6d5f2",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/node/repl.d.ts": {
+        "version": "30b9c2c0949e27506c7e751bd51749ca5ecb0d0a3ea854064039ffaa3707fad4",
+        "signature": "30b9c2c0949e27506c7e751bd51749ca5ecb0d0a3ea854064039ffaa3707fad4",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/node/stream.d.ts": {
+        "version": "87a856ce45263344ebf69270ea1b0fc4eb13236a6194300bd5e99d1f022b0c6e",
+        "signature": "87a856ce45263344ebf69270ea1b0fc4eb13236a6194300bd5e99d1f022b0c6e",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/node/string_decoder.d.ts": {
+        "version": "7e62aac2cc9c0710d772047ad89e8d7117f52592c791eb995ce1f865fedab432",
+        "signature": "7e62aac2cc9c0710d772047ad89e8d7117f52592c791eb995ce1f865fedab432",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/node/timers.d.ts": {
+        "version": "b40652bf8ce4a18133b31349086523b219724dca8df3448c1a0742528e7ad5b9",
+        "signature": "b40652bf8ce4a18133b31349086523b219724dca8df3448c1a0742528e7ad5b9",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/node/tls.d.ts": {
+        "version": "6ba512fc25cfb3db60007c7b1b4428ce497986ac442c370da879223c3c258872",
+        "signature": "6ba512fc25cfb3db60007c7b1b4428ce497986ac442c370da879223c3c258872",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/node/trace_events.d.ts": {
+        "version": "a77fdb357c78b70142b2fdbbfb72958d69e8f765fd2a3c69946c1018e89d4638",
+        "signature": "a77fdb357c78b70142b2fdbbfb72958d69e8f765fd2a3c69946c1018e89d4638",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/node/tty.d.ts": {
+        "version": "df905913ad47e24b6cb41d33f0c1f500bf9c4befe4325413a7644c9eb1e7965c",
+        "signature": "df905913ad47e24b6cb41d33f0c1f500bf9c4befe4325413a7644c9eb1e7965c",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/node/url.d.ts": {
+        "version": "ae25aec5ed3795a3edfc356a7bc091554917ad0e0009a3cdffd7115ba22bd28d",
+        "signature": "ae25aec5ed3795a3edfc356a7bc091554917ad0e0009a3cdffd7115ba22bd28d",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/node/util.d.ts": {
+        "version": "bf237fb2ca1ac62fde63e5f8178a9030e4d6b11987744007272f03a9deec6f76",
+        "signature": "bf237fb2ca1ac62fde63e5f8178a9030e4d6b11987744007272f03a9deec6f76",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/node/v8.d.ts": {
+        "version": "4407bd5f1d6f748590ba125195eb1d7a003c2de2f3b057456d3ac76a742d2561",
+        "signature": "4407bd5f1d6f748590ba125195eb1d7a003c2de2f3b057456d3ac76a742d2561",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/node/vm.d.ts": {
+        "version": "bf244a366e8ee68acda125761c6e337c8795b37eef05947d62f89b584de926b3",
+        "signature": "bf244a366e8ee68acda125761c6e337c8795b37eef05947d62f89b584de926b3",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/node/worker_threads.d.ts": {
+        "version": "7780573ed8387aaadcc61d87f3d60d77dabf1e060da252dc72ab1d73401988bb",
+        "signature": "7780573ed8387aaadcc61d87f3d60d77dabf1e060da252dc72ab1d73401988bb",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/node/zlib.d.ts": {
+        "version": "f409183966a1dd93d3a9cd1d54fbeb85c73101e87cd5b19467c5e37b252f3fd8",
+        "signature": "f409183966a1dd93d3a9cd1d54fbeb85c73101e87cd5b19467c5e37b252f3fd8",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/node/base.d.ts": {
+        "version": "6622f76993bdfeaacb947ba7c4cf26f2e5c5194194d02d792c3cba4174cd8fce",
+        "signature": "6622f76993bdfeaacb947ba7c4cf26f2e5c5194194d02d792c3cba4174cd8fce",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/node/ts3.2/fs.d.ts": {
+        "version": "1ed55651f38540dba21f4a864bd89834ddb552446dce8c8a5f9dc0b44ce0b024",
+        "signature": "1ed55651f38540dba21f4a864bd89834ddb552446dce8c8a5f9dc0b44ce0b024",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/node/ts3.2/util.d.ts": {
+        "version": "4f54f0a9dd3b644c99ec32b32f8804d5978bc854799b228ae9c467bf3c84c64c",
+        "signature": "4f54f0a9dd3b644c99ec32b32f8804d5978bc854799b228ae9c467bf3c84c64c",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/node/ts3.2/globals.d.ts": {
+        "version": "4926e99d2ad39c0bbd36f2d37cc8f52756bc7a5661ad7b12815df871a4b07ba1",
+        "signature": "4926e99d2ad39c0bbd36f2d37cc8f52756bc7a5661ad7b12815df871a4b07ba1",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/@types/node/ts3.2/index.d.ts": {
+        "version": "7c7dabe6de2f88a1b4a4d9a15479c2a99b6f5864b434b9d960fc312ba9498c0a",
+        "signature": "7c7dabe6de2f88a1b4a4d9a15479c2a99b6f5864b434b9d960fc312ba9498c0a",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/minimatch/index.d.ts": {
+        "version": "1d1e6bd176eee5970968423d7e215bfd66828b6db8d54d17afec05a831322633",
+        "signature": "1d1e6bd176eee5970968423d7e215bfd66828b6db8d54d17afec05a831322633",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/glob/index.d.ts": {
+        "version": "d852d6282c8dc8156d26d6bda83ab4bde51fee05ba2fe0ecdc165ddda009d3ee",
+        "signature": "d852d6282c8dc8156d26d6bda83ab4bde51fee05ba2fe0ecdc165ddda009d3ee",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/json-schema/index.d.ts": {
+        "version": "b2be568d8ce95fcb26eebd04c035d94825655fdf689bf67d799f5ff8cbbb1024",
+        "signature": "b2be568d8ce95fcb26eebd04c035d94825655fdf689bf67d799f5ff8cbbb1024",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/normalize-package-data/index.d.ts": {
+        "version": "c9ad058b2cc9ce6dc2ed92960d6d009e8c04bef46d3f5312283debca6869f613",
+        "signature": "c9ad058b2cc9ce6dc2ed92960d6d009e8c04bef46d3f5312283debca6869f613",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/parse-json/index.d.ts": {
+        "version": "2b8264b2fefd7367e0f20e2c04eed5d3038831fe00f5efbc110ff0131aab899b",
+        "signature": "2b8264b2fefd7367e0f20e2c04eed5d3038831fe00f5efbc110ff0131aab899b",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/q/index.d.ts": {
+        "version": "57427a9a368f8f0ee4ce03c36a762e19166756b95ab688948b29be553b24a78a",
+        "signature": "57427a9a368f8f0ee4ce03c36a762e19166756b95ab688948b29be553b24a78a",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/webpack-env/index.d.ts": {
+        "version": "9575baefb3597b2bf1514d36839d36ab8404dfcb5ad4b1a322165a96fbd618e7",
+        "signature": "9575baefb3597b2bf1514d36839d36ab8404dfcb5ad4b1a322165a96fbd618e7",
+        "affectsGlobalScope": true
+      }
+    },
+    "options": {
+      "baseUrl": "../..",
+      "experimentalDecorators": true,
+      "incremental": true,
+      "module": 5,
+      "moduleResolution": 2,
+      "noEmitOnError": true,
+      "noFallthroughCasesInSwitch": true,
+      "noImplicitAny": true,
+      "noImplicitThis": true,
+      "outDir": "./",
+      "paths": {
+        "model/*": [
+          "./src/model/*"
+        ],
+        "ui/*": [
+          "./src/ui/*"
+        ]
+      },
+      "preserveConstEnums": false,
+      "removeComments": true,
+      "sourceMap": true,
+      "strict": true,
+      "strictPropertyInitialization": false,
+      "target": 5,
+      "project": "../../tsconfig.json",
+      "listEmittedFiles": true,
+      "locale": "en-US",
+      "configFilePath": "../../tsconfig.json"
+    },
+    "referencedMap": {
+      "../../node_modules/@types/color-name/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/events/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/glob/index.d.ts": [
+        "../../node_modules/@types/minimatch/index.d.ts",
+        "../../node_modules/@types/node/events.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/json-schema/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/minimatch/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/assert.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/async_hooks.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/base.d.ts": [
+        "../../node_modules/@types/node/assert.d.ts",
+        "../../node_modules/@types/node/async_hooks.d.ts",
+        "../../node_modules/@types/node/buffer.d.ts",
+        "../../node_modules/@types/node/child_process.d.ts",
+        "../../node_modules/@types/node/cluster.d.ts",
+        "../../node_modules/@types/node/console.d.ts",
+        "../../node_modules/@types/node/constants.d.ts",
+        "../../node_modules/@types/node/crypto.d.ts",
+        "../../node_modules/@types/node/dgram.d.ts",
+        "../../node_modules/@types/node/dns.d.ts",
+        "../../node_modules/@types/node/domain.d.ts",
+        "../../node_modules/@types/node/events.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/globals.d.ts",
+        "../../node_modules/@types/node/http.d.ts",
+        "../../node_modules/@types/node/http2.d.ts",
+        "../../node_modules/@types/node/https.d.ts",
+        "../../node_modules/@types/node/inspector.d.ts",
+        "../../node_modules/@types/node/module.d.ts",
+        "../../node_modules/@types/node/net.d.ts",
+        "../../node_modules/@types/node/os.d.ts",
+        "../../node_modules/@types/node/path.d.ts",
+        "../../node_modules/@types/node/perf_hooks.d.ts",
+        "../../node_modules/@types/node/process.d.ts",
+        "../../node_modules/@types/node/punycode.d.ts",
+        "../../node_modules/@types/node/querystring.d.ts",
+        "../../node_modules/@types/node/readline.d.ts",
+        "../../node_modules/@types/node/repl.d.ts",
+        "../../node_modules/@types/node/stream.d.ts",
+        "../../node_modules/@types/node/string_decoder.d.ts",
+        "../../node_modules/@types/node/timers.d.ts",
+        "../../node_modules/@types/node/tls.d.ts",
+        "../../node_modules/@types/node/trace_events.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/tty.d.ts",
+        "../../node_modules/@types/node/url.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/v8.d.ts",
+        "../../node_modules/@types/node/vm.d.ts",
+        "../../node_modules/@types/node/worker_threads.d.ts",
+        "../../node_modules/@types/node/zlib.d.ts"
+      ],
+      "../../node_modules/@types/node/buffer.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/child_process.d.ts": [
+        "../../node_modules/@types/node/events.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/net.d.ts",
+        "../../node_modules/@types/node/stream.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/cluster.d.ts": [
+        "../../node_modules/@types/node/child_process.d.ts",
+        "../../node_modules/@types/node/events.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/net.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/console.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/constants.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/crypto.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/stream.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/dgram.d.ts": [
+        "../../node_modules/@types/node/dns.d.ts",
+        "../../node_modules/@types/node/events.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/net.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/dns.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/domain.d.ts": [
+        "../../node_modules/@types/node/events.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/events.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/fs.d.ts": [
+        "../../node_modules/@types/node/events.d.ts",
+        "../../node_modules/@types/node/stream.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/url.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/globals.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/http.d.ts": [
+        "../../node_modules/@types/node/events.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/net.d.ts",
+        "../../node_modules/@types/node/stream.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/url.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/http2.d.ts": [
+        "../../node_modules/@types/node/events.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/http.d.ts",
+        "../../node_modules/@types/node/net.d.ts",
+        "../../node_modules/@types/node/stream.d.ts",
+        "../../node_modules/@types/node/tls.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/url.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/https.d.ts": [
+        "../../node_modules/@types/node/events.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/http.d.ts",
+        "../../node_modules/@types/node/tls.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/url.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/inspector.d.ts": [
+        "../../node_modules/@types/node/events.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/module.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/net.d.ts": [
+        "../../node_modules/@types/node/dns.d.ts",
+        "../../node_modules/@types/node/events.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/stream.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/os.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/path.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/perf_hooks.d.ts": [
+        "../../node_modules/@types/node/async_hooks.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/process.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/tty.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/punycode.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/querystring.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/readline.d.ts": [
+        "../../node_modules/@types/node/events.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/stream.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/repl.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/readline.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/vm.d.ts"
+      ],
+      "../../node_modules/@types/node/stream.d.ts": [
+        "../../node_modules/@types/node/events.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/string_decoder.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/timers.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/tls.d.ts": [
+        "../../node_modules/@types/node/crypto.d.ts",
+        "../../node_modules/@types/node/dns.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/net.d.ts",
+        "../../node_modules/@types/node/stream.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/trace_events.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/ts3.2/fs.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/ts3.2/globals.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/globals.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/ts3.2/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/globals.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/ts3.2/util.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/tty.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/net.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/url.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/querystring.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/util.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../../node_modules/@types/node/v8.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/stream.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/vm.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/worker_threads.d.ts": [
+        "../../node_modules/@types/node/events.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/stream.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/vm.d.ts"
+      ],
+      "../../node_modules/@types/node/zlib.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/stream.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/normalize-package-data/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/parse-json/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/q/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/webpack-env/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/bv-config.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/alert/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/badge/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/breadcrumb/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/button-group/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/button-toolbar/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/button/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/card/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/carousel/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/collapse/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/dropdown/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/embed/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/form-checkbox/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/form-file/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/form-group/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/form-input/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/form-radio/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/form-select/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/form-textarea/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/form/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/image/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/alert/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/badge/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/breadcrumb/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/button-group/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/button-toolbar/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/button/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/card/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/carousel/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/collapse/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/dropdown/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/embed/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/form-checkbox/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/form-file/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/form-group/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/form-input/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/form-radio/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/form-select/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/form-textarea/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/form/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/image/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/input-group/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/jumbotron/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/layout/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/link/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/list-group/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/media/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/modal/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/nav/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/navbar/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/pagination-nav/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/pagination/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/popover/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/progress/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/spinner/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/table/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/tabs/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/toast/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/tooltip/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/input-group/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/jumbotron/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/layout/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/link/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/list-group/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/media/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/modal/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/toast/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/vue-injections.d.ts",
+        "../../node_modules/vue-router/types/vue.d.ts",
+        "../../node_modules/vue/types/index.d.ts",
+        "../../node_modules/vue/types/vue.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/nav/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/navbar/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/pagination-nav/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/pagination/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/popover/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/progress/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/spinner/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/table/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/tabs/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/toast/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/modal/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/vue-injections.d.ts",
+        "../../node_modules/vue-router/types/vue.d.ts",
+        "../../node_modules/vue/types/index.d.ts",
+        "../../node_modules/vue/types/vue.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/tooltip/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/directives/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/directives/modal/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/directives/popover/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/directives/scrollspy/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/directives/toggle/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/directives/tooltip/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/directives/modal/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/directives/popover/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/directives/scrollspy/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/directives/toggle/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/directives/tooltip/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/bv-config.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/directives/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/vue-injections.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/vue-injections.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/modal/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/toast/index.d.ts",
+        "../../node_modules/vue-router/types/vue.d.ts",
+        "../../node_modules/vue/types/index.d.ts",
+        "../../node_modules/vue/types/vue.d.ts"
+      ],
+      "../../node_modules/vue-router/types/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/vue-router/types/router.d.ts",
+        "../../node_modules/vue-router/types/vue.d.ts"
+      ],
+      "../../node_modules/vue-router/types/router.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/vue-router/types/vue.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/modal/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/toast/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/vue-injections.d.ts",
+        "../../node_modules/vue-router/types/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts",
+        "../../node_modules/vue/types/options.d.ts",
+        "../../node_modules/vue/types/vue.d.ts"
+      ],
+      "../../node_modules/vue/types/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/vue/types/options.d.ts",
+        "../../node_modules/vue/types/plugin.d.ts",
+        "../../node_modules/vue/types/vnode.d.ts",
+        "../../node_modules/vue/types/vue.d.ts"
+      ],
+      "../../node_modules/vue/types/options.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/vue/types/vnode.d.ts",
+        "../../node_modules/vue/types/vue.d.ts"
+      ],
+      "../../node_modules/vue/types/plugin.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/vue/types/vue.d.ts"
+      ],
+      "../../node_modules/vue/types/vnode.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/vue/types/vue.d.ts"
+      ],
+      "../../node_modules/vue/types/vue.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/vue/types/options.d.ts",
+        "../../node_modules/vue/types/plugin.d.ts",
+        "../../node_modules/vue/types/vnode.d.ts"
+      ],
+      "../../src/main.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/vue/types/index.d.ts",
+        "../../src/model/init.ts",
+        "../../src/model/routing.ts",
+        "../../src/vue-shims.d.ts"
+      ],
+      "../../src/model/init.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts",
+        "../../src/vue-shims.d.ts"
+      ],
+      "../../src/model/routing.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/vue-router/types/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts",
+        "../../src/vue-shims.d.ts"
+      ],
+      "../../src/vue-shims.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.dom.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.dom.iterable.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2015.collection.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2015.core.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2015.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2015.generator.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2015.iterable.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2015.promise.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2015.proxy.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2015.reflect.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2015.symbol.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2015.symbol.wellknown.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2016.array.include.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2016.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2017.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2017.intl.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2017.object.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2017.sharedmemory.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2017.string.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2017.typedarrays.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2018.asyncgenerator.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2018.asynciterable.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2018.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2018.full.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2018.intl.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2018.promise.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2018.regexp.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2020.bigint.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es5.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.esnext.intl.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.scripthost.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.webworker.importscripts.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "../../node_modules/@types/color-name/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/events/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/glob/index.d.ts": [
+        "../../node_modules/@types/minimatch/index.d.ts",
+        "../../node_modules/@types/node/events.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/index.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/json-schema/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/minimatch/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/assert.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/async_hooks.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/base.d.ts": [
+        "../../node_modules/@types/node/assert.d.ts",
+        "../../node_modules/@types/node/async_hooks.d.ts",
+        "../../node_modules/@types/node/buffer.d.ts",
+        "../../node_modules/@types/node/child_process.d.ts",
+        "../../node_modules/@types/node/cluster.d.ts",
+        "../../node_modules/@types/node/console.d.ts",
+        "../../node_modules/@types/node/constants.d.ts",
+        "../../node_modules/@types/node/crypto.d.ts",
+        "../../node_modules/@types/node/dgram.d.ts",
+        "../../node_modules/@types/node/dns.d.ts",
+        "../../node_modules/@types/node/domain.d.ts",
+        "../../node_modules/@types/node/events.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/globals.d.ts",
+        "../../node_modules/@types/node/http.d.ts",
+        "../../node_modules/@types/node/http2.d.ts",
+        "../../node_modules/@types/node/https.d.ts",
+        "../../node_modules/@types/node/inspector.d.ts",
+        "../../node_modules/@types/node/module.d.ts",
+        "../../node_modules/@types/node/net.d.ts",
+        "../../node_modules/@types/node/os.d.ts",
+        "../../node_modules/@types/node/path.d.ts",
+        "../../node_modules/@types/node/perf_hooks.d.ts",
+        "../../node_modules/@types/node/process.d.ts",
+        "../../node_modules/@types/node/punycode.d.ts",
+        "../../node_modules/@types/node/querystring.d.ts",
+        "../../node_modules/@types/node/readline.d.ts",
+        "../../node_modules/@types/node/repl.d.ts",
+        "../../node_modules/@types/node/stream.d.ts",
+        "../../node_modules/@types/node/string_decoder.d.ts",
+        "../../node_modules/@types/node/timers.d.ts",
+        "../../node_modules/@types/node/tls.d.ts",
+        "../../node_modules/@types/node/trace_events.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/tty.d.ts",
+        "../../node_modules/@types/node/url.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/v8.d.ts",
+        "../../node_modules/@types/node/vm.d.ts",
+        "../../node_modules/@types/node/worker_threads.d.ts",
+        "../../node_modules/@types/node/zlib.d.ts"
+      ],
+      "../../node_modules/@types/node/buffer.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/child_process.d.ts": [
+        "../../node_modules/@types/node/events.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/net.d.ts",
+        "../../node_modules/@types/node/stream.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/cluster.d.ts": [
+        "../../node_modules/@types/node/child_process.d.ts",
+        "../../node_modules/@types/node/events.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/net.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/console.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/constants.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/crypto.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/stream.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/dgram.d.ts": [
+        "../../node_modules/@types/node/dns.d.ts",
+        "../../node_modules/@types/node/events.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/net.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/dns.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/domain.d.ts": [
+        "../../node_modules/@types/node/events.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/events.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/fs.d.ts": [
+        "../../node_modules/@types/node/events.d.ts",
+        "../../node_modules/@types/node/stream.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/url.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/globals.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/http.d.ts": [
+        "../../node_modules/@types/node/events.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/net.d.ts",
+        "../../node_modules/@types/node/stream.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/url.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/http2.d.ts": [
+        "../../node_modules/@types/node/events.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/http.d.ts",
+        "../../node_modules/@types/node/net.d.ts",
+        "../../node_modules/@types/node/stream.d.ts",
+        "../../node_modules/@types/node/tls.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/url.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/https.d.ts": [
+        "../../node_modules/@types/node/events.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/http.d.ts",
+        "../../node_modules/@types/node/tls.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/url.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/inspector.d.ts": [
+        "../../node_modules/@types/node/events.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/module.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/net.d.ts": [
+        "../../node_modules/@types/node/dns.d.ts",
+        "../../node_modules/@types/node/events.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/stream.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/os.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/path.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/perf_hooks.d.ts": [
+        "../../node_modules/@types/node/async_hooks.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/process.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/tty.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/punycode.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/querystring.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/readline.d.ts": [
+        "../../node_modules/@types/node/events.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/stream.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/repl.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/readline.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/vm.d.ts"
+      ],
+      "../../node_modules/@types/node/stream.d.ts": [
+        "../../node_modules/@types/node/events.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/string_decoder.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/timers.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/tls.d.ts": [
+        "../../node_modules/@types/node/crypto.d.ts",
+        "../../node_modules/@types/node/dns.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/net.d.ts",
+        "../../node_modules/@types/node/stream.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/trace_events.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/ts3.2/fs.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/ts3.2/globals.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/globals.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/ts3.2/index.d.ts": [
+        "../../node_modules/@types/node/base.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/globals.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/ts3.2/util.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/tty.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/net.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/url.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/querystring.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/util.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../../node_modules/@types/node/v8.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/stream.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/vm.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/node/worker_threads.d.ts": [
+        "../../node_modules/@types/node/events.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/stream.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/vm.d.ts"
+      ],
+      "../../node_modules/@types/node/zlib.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/stream.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/normalize-package-data/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/parse-json/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/q/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/@types/webpack-env/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/bv-config.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/alert/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/badge/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/breadcrumb/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/button-group/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/button-toolbar/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/button/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/card/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/carousel/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/collapse/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/dropdown/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/embed/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/form-checkbox/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/form-file/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/form-group/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/form-input/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/form-radio/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/form-select/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/form-textarea/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/form/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/image/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/alert/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/badge/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/breadcrumb/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/button-group/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/button-toolbar/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/button/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/card/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/carousel/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/collapse/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/dropdown/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/embed/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/form-checkbox/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/form-file/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/form-group/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/form-input/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/form-radio/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/form-select/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/form-textarea/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/form/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/image/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/input-group/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/jumbotron/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/layout/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/link/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/list-group/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/media/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/modal/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/nav/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/navbar/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/pagination-nav/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/pagination/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/popover/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/progress/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/spinner/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/table/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/tabs/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/toast/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/tooltip/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/input-group/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/jumbotron/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/layout/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/link/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/list-group/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/media/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/modal/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/toast/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/vue-injections.d.ts",
+        "../../node_modules/vue-router/types/vue.d.ts",
+        "../../node_modules/vue/types/index.d.ts",
+        "../../node_modules/vue/types/vue.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/nav/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/navbar/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/pagination-nav/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/pagination/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/popover/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/progress/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/spinner/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/table/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/tabs/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/toast/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/modal/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/vue-injections.d.ts",
+        "../../node_modules/vue-router/types/vue.d.ts",
+        "../../node_modules/vue/types/index.d.ts",
+        "../../node_modules/vue/types/vue.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/components/tooltip/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/directives/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/directives/modal/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/directives/popover/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/directives/scrollspy/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/directives/toggle/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/directives/tooltip/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/directives/modal/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/directives/popover/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/directives/scrollspy/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/directives/toggle/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/directives/tooltip/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/bv-config.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/directives/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/vue-injections.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/bootstrap-vue/src/vue-injections.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/modal/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/toast/index.d.ts",
+        "../../node_modules/vue-router/types/vue.d.ts",
+        "../../node_modules/vue/types/index.d.ts",
+        "../../node_modules/vue/types/vue.d.ts"
+      ],
+      "../../node_modules/vue-router/types/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/vue-router/types/router.d.ts",
+        "../../node_modules/vue-router/types/vue.d.ts"
+      ],
+      "../../node_modules/vue-router/types/router.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../node_modules/vue-router/types/vue.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/modal/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/components/toast/index.d.ts",
+        "../../node_modules/bootstrap-vue/src/vue-injections.d.ts",
+        "../../node_modules/vue-router/types/index.d.ts",
+        "../../node_modules/vue/types/index.d.ts",
+        "../../node_modules/vue/types/options.d.ts",
+        "../../node_modules/vue/types/vue.d.ts"
+      ],
+      "../../node_modules/vue/types/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/vue/types/options.d.ts",
+        "../../node_modules/vue/types/plugin.d.ts",
+        "../../node_modules/vue/types/vnode.d.ts",
+        "../../node_modules/vue/types/vue.d.ts"
+      ],
+      "../../node_modules/vue/types/options.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/vue/types/vnode.d.ts",
+        "../../node_modules/vue/types/vue.d.ts"
+      ],
+      "../../node_modules/vue/types/plugin.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/vue/types/vue.d.ts"
+      ],
+      "../../node_modules/vue/types/vnode.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/vue/types/vue.d.ts"
+      ],
+      "../../node_modules/vue/types/vue.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/vue/types/options.d.ts",
+        "../../node_modules/vue/types/plugin.d.ts",
+        "../../node_modules/vue/types/vnode.d.ts"
+      ],
+      "../../src/model/routing.ts": [
+        "../../node_modules/vue-router/types/index.d.ts"
+      ],
+      "../../src/vue-shims.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/vue/types/index.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.dom.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.dom.iterable.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2015.collection.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2015.core.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2015.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2015.generator.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2015.iterable.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2015.promise.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2015.proxy.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2015.reflect.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2015.symbol.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2015.symbol.wellknown.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2016.array.include.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2016.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2017.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2017.intl.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2017.object.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2017.sharedmemory.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2017.string.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2017.typedarrays.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2018.asyncgenerator.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2018.asynciterable.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2018.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2018.full.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2018.intl.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2018.promise.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2018.regexp.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2020.bigint.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es5.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.esnext.intl.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.scripthost.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.webworker.importscripts.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../node_modules/@types/node/util.d.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "../../node_modules/@types/color-name/index.d.ts",
+      "../../node_modules/@types/events/index.d.ts",
+      "../../node_modules/@types/glob/index.d.ts",
+      "../../node_modules/@types/json-schema/index.d.ts",
+      "../../node_modules/@types/minimatch/index.d.ts",
+      "../../node_modules/@types/node/assert.d.ts",
+      "../../node_modules/@types/node/async_hooks.d.ts",
+      "../../node_modules/@types/node/base.d.ts",
+      "../../node_modules/@types/node/buffer.d.ts",
+      "../../node_modules/@types/node/child_process.d.ts",
+      "../../node_modules/@types/node/cluster.d.ts",
+      "../../node_modules/@types/node/console.d.ts",
+      "../../node_modules/@types/node/constants.d.ts",
+      "../../node_modules/@types/node/crypto.d.ts",
+      "../../node_modules/@types/node/dgram.d.ts",
+      "../../node_modules/@types/node/dns.d.ts",
+      "../../node_modules/@types/node/domain.d.ts",
+      "../../node_modules/@types/node/events.d.ts",
+      "../../node_modules/@types/node/fs.d.ts",
+      "../../node_modules/@types/node/globals.d.ts",
+      "../../node_modules/@types/node/http.d.ts",
+      "../../node_modules/@types/node/http2.d.ts",
+      "../../node_modules/@types/node/https.d.ts",
+      "../../node_modules/@types/node/inspector.d.ts",
+      "../../node_modules/@types/node/module.d.ts",
+      "../../node_modules/@types/node/net.d.ts",
+      "../../node_modules/@types/node/os.d.ts",
+      "../../node_modules/@types/node/path.d.ts",
+      "../../node_modules/@types/node/perf_hooks.d.ts",
+      "../../node_modules/@types/node/process.d.ts",
+      "../../node_modules/@types/node/punycode.d.ts",
+      "../../node_modules/@types/node/querystring.d.ts",
+      "../../node_modules/@types/node/readline.d.ts",
+      "../../node_modules/@types/node/repl.d.ts",
+      "../../node_modules/@types/node/stream.d.ts",
+      "../../node_modules/@types/node/string_decoder.d.ts",
+      "../../node_modules/@types/node/timers.d.ts",
+      "../../node_modules/@types/node/tls.d.ts",
+      "../../node_modules/@types/node/trace_events.d.ts",
+      "../../node_modules/@types/node/ts3.2/fs.d.ts",
+      "../../node_modules/@types/node/ts3.2/globals.d.ts",
+      "../../node_modules/@types/node/ts3.2/index.d.ts",
+      "../../node_modules/@types/node/ts3.2/util.d.ts",
+      "../../node_modules/@types/node/tty.d.ts",
+      "../../node_modules/@types/node/url.d.ts",
+      "../../node_modules/@types/node/util.d.ts",
+      "../../node_modules/@types/node/v8.d.ts",
+      "../../node_modules/@types/node/vm.d.ts",
+      "../../node_modules/@types/node/worker_threads.d.ts",
+      "../../node_modules/@types/node/zlib.d.ts",
+      "../../node_modules/@types/normalize-package-data/index.d.ts",
+      "../../node_modules/@types/parse-json/index.d.ts",
+      "../../node_modules/@types/q/index.d.ts",
+      "../../node_modules/@types/webpack-env/index.d.ts",
+      "../../node_modules/bootstrap-vue/src/bv-config.d.ts",
+      "../../node_modules/bootstrap-vue/src/components/alert/index.d.ts",
+      "../../node_modules/bootstrap-vue/src/components/badge/index.d.ts",
+      "../../node_modules/bootstrap-vue/src/components/breadcrumb/index.d.ts",
+      "../../node_modules/bootstrap-vue/src/components/button-group/index.d.ts",
+      "../../node_modules/bootstrap-vue/src/components/button-toolbar/index.d.ts",
+      "../../node_modules/bootstrap-vue/src/components/button/index.d.ts",
+      "../../node_modules/bootstrap-vue/src/components/card/index.d.ts",
+      "../../node_modules/bootstrap-vue/src/components/carousel/index.d.ts",
+      "../../node_modules/bootstrap-vue/src/components/collapse/index.d.ts",
+      "../../node_modules/bootstrap-vue/src/components/dropdown/index.d.ts",
+      "../../node_modules/bootstrap-vue/src/components/embed/index.d.ts",
+      "../../node_modules/bootstrap-vue/src/components/form-checkbox/index.d.ts",
+      "../../node_modules/bootstrap-vue/src/components/form-file/index.d.ts",
+      "../../node_modules/bootstrap-vue/src/components/form-group/index.d.ts",
+      "../../node_modules/bootstrap-vue/src/components/form-input/index.d.ts",
+      "../../node_modules/bootstrap-vue/src/components/form-radio/index.d.ts",
+      "../../node_modules/bootstrap-vue/src/components/form-select/index.d.ts",
+      "../../node_modules/bootstrap-vue/src/components/form-textarea/index.d.ts",
+      "../../node_modules/bootstrap-vue/src/components/form/index.d.ts",
+      "../../node_modules/bootstrap-vue/src/components/image/index.d.ts",
+      "../../node_modules/bootstrap-vue/src/components/index.d.ts",
+      "../../node_modules/bootstrap-vue/src/components/input-group/index.d.ts",
+      "../../node_modules/bootstrap-vue/src/components/jumbotron/index.d.ts",
+      "../../node_modules/bootstrap-vue/src/components/layout/index.d.ts",
+      "../../node_modules/bootstrap-vue/src/components/link/index.d.ts",
+      "../../node_modules/bootstrap-vue/src/components/list-group/index.d.ts",
+      "../../node_modules/bootstrap-vue/src/components/media/index.d.ts",
+      "../../node_modules/bootstrap-vue/src/components/modal/index.d.ts",
+      "../../node_modules/bootstrap-vue/src/components/nav/index.d.ts",
+      "../../node_modules/bootstrap-vue/src/components/navbar/index.d.ts",
+      "../../node_modules/bootstrap-vue/src/components/pagination-nav/index.d.ts",
+      "../../node_modules/bootstrap-vue/src/components/pagination/index.d.ts",
+      "../../node_modules/bootstrap-vue/src/components/popover/index.d.ts",
+      "../../node_modules/bootstrap-vue/src/components/progress/index.d.ts",
+      "../../node_modules/bootstrap-vue/src/components/spinner/index.d.ts",
+      "../../node_modules/bootstrap-vue/src/components/table/index.d.ts",
+      "../../node_modules/bootstrap-vue/src/components/tabs/index.d.ts",
+      "../../node_modules/bootstrap-vue/src/components/toast/index.d.ts",
+      "../../node_modules/bootstrap-vue/src/components/tooltip/index.d.ts",
+      "../../node_modules/bootstrap-vue/src/directives/index.d.ts",
+      "../../node_modules/bootstrap-vue/src/directives/modal/index.d.ts",
+      "../../node_modules/bootstrap-vue/src/directives/popover/index.d.ts",
+      "../../node_modules/bootstrap-vue/src/directives/scrollspy/index.d.ts",
+      "../../node_modules/bootstrap-vue/src/directives/toggle/index.d.ts",
+      "../../node_modules/bootstrap-vue/src/directives/tooltip/index.d.ts",
+      "../../node_modules/bootstrap-vue/src/index.d.ts",
+      "../../node_modules/bootstrap-vue/src/vue-injections.d.ts",
+      "../../node_modules/vue-router/types/index.d.ts",
+      "../../node_modules/vue-router/types/router.d.ts",
+      "../../node_modules/vue-router/types/vue.d.ts",
+      "../../node_modules/vue/types/index.d.ts",
+      "../../node_modules/vue/types/options.d.ts",
+      "../../node_modules/vue/types/plugin.d.ts",
+      "../../node_modules/vue/types/vnode.d.ts",
+      "../../node_modules/vue/types/vue.d.ts",
+      "../../src/main.ts",
+      "../../src/model/init.ts",
+      "../../src/model/routing.ts",
+      "../../src/vue-shims.d.ts",
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.dom.d.ts",
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.dom.iterable.d.ts",
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2015.collection.d.ts",
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2015.core.d.ts",
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2015.d.ts",
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2015.generator.d.ts",
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2015.iterable.d.ts",
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2015.promise.d.ts",
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2015.proxy.d.ts",
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2015.reflect.d.ts",
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2015.symbol.d.ts",
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2015.symbol.wellknown.d.ts",
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2016.array.include.d.ts",
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2016.d.ts",
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2017.d.ts",
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2017.intl.d.ts",
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2017.object.d.ts",
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2017.sharedmemory.d.ts",
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2017.string.d.ts",
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2017.typedarrays.d.ts",
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2018.asyncgenerator.d.ts",
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2018.asynciterable.d.ts",
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2018.d.ts",
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2018.full.d.ts",
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2018.intl.d.ts",
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2018.promise.d.ts",
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2018.regexp.d.ts",
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es2020.bigint.d.ts",
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.es5.d.ts",
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.esnext.intl.d.ts",
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.scripthost.d.ts",
+      "../../../../../../program files (x86)/microsoft sdks/typescript/4.0/lib.webworker.importscripts.d.ts"
+    ]
+  },
+  "version": "4.0.3"
+}

@@ -1,0 +1,14 @@
+C:\Development\FarmControl\FarmControl.Service\bin\Debug\netcoreapp3.1\FarmControl.Service.exe
+C:\Development\FarmControl\FarmControl.Service\bin\Debug\netcoreapp3.1\FarmControl.Service.deps.json
+C:\Development\FarmControl\FarmControl.Service\bin\Debug\netcoreapp3.1\FarmControl.Service.runtimeconfig.json
+C:\Development\FarmControl\FarmControl.Service\bin\Debug\netcoreapp3.1\FarmControl.Service.runtimeconfig.dev.json
+C:\Development\FarmControl\FarmControl.Service\bin\Debug\netcoreapp3.1\FarmControl.Service.dll
+C:\Development\FarmControl\FarmControl.Service\bin\Debug\netcoreapp3.1\FarmControl.Service.pdb
+C:\Development\FarmControl\FarmControl.Service\obj\Debug\netcoreapp3.1\FarmControl.Service.csprojAssemblyReference.cache
+C:\Development\FarmControl\FarmControl.Service\obj\Debug\netcoreapp3.1\FarmControl.Service.AssemblyInfoInputs.cache
+C:\Development\FarmControl\FarmControl.Service\obj\Debug\netcoreapp3.1\FarmControl.Service.AssemblyInfo.cs
+C:\Development\FarmControl\FarmControl.Service\obj\Debug\netcoreapp3.1\FarmControl.Service.csproj.CoreCompileInputs.cache
+C:\Development\FarmControl\FarmControl.Service\obj\Debug\netcoreapp3.1\FarmControl.Service.dll
+C:\Development\FarmControl\FarmControl.Service\obj\Debug\netcoreapp3.1\FarmControl.Service.pdb
+C:\Development\FarmControl\FarmControl.Service\obj\Debug\netcoreapp3.1\FarmControl.Service.genruntimeconfig.cache
+C:\Development\FarmControl\FarmControl.Service\bin\Debug\netcoreapp3.1\FarmControl.Service.dll.config
