@@ -1,6 +1,0 @@
-C:\Development\FarmControl\FarmControl.Website\obj\Debug\netcoreapp3.1\FarmControl.Website.csprojAssemblyReference.cache
-C:\Development\FarmControl\FarmControl.Website\obj\Debug\netcoreapp3.1\FarmControl.Website.AssemblyInfoInputs.cache
-C:\Development\FarmControl\FarmControl.Website\obj\Debug\netcoreapp3.1\FarmControl.Website.AssemblyInfo.cs
-C:\Development\FarmControl\FarmControl.Website\obj\Debug\netcoreapp3.1\FarmControl.Website.csproj.CoreCompileInputs.cache
-C:\Development\FarmControl\FarmControl.Website\obj\Debug\netcoreapp3.1\FarmControl.Website.MvcApplicationPartsAssemblyInfo.cs
-C:\Development\FarmControl\FarmControl.Website\obj\Debug\netcoreapp3.1\FarmControl.Website.MvcApplicationPartsAssemblyInfo.cache
