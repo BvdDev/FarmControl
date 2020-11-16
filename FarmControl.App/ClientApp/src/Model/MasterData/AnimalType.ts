@@ -5,10 +5,9 @@ export class AnimalType extends Entity {
   Code: string;
   Created: Date;
 
-  constructor(name: string, code: string, created: Date) {
+  constructor(name: string, code: string) {
     super();
     this.Name = name;
     this.Code = code;
-    this.Created = created;
   }
 }

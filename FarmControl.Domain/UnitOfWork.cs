@@ -27,14 +27,14 @@ namespace FarmControl.Domain
 			RepoFactory = new RepoFactory(this);
 		}
 
-		public void SaveChanges()
+		public async void SaveChanges()
 		{
-			Context.SaveChanges();
+			await Context.SaveChangesAsync();
 		}
 
-		public void Dispose()
+		public async void Dispose()
 		{
-			Context.Dispose();
+			await Context.DisposeAsync();
 		}
 	}
 }

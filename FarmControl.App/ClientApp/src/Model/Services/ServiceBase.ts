@@ -7,15 +7,14 @@ import { getBaseUrl } from '../../main';
 
 export abstract class ServiceBase<T extends Entity> {
 
-  private url = "";
+  private url = getBaseUrl() + "AnimalType";
 
   httpOptions = {
-    headers: new HttpHeaders({ 'Content-Type': 'application/json' })
+    headers: new HttpHeaders({ 'Content-Type': 'application/json; charset=utf-8' })
   };
 
   constructor(private http: HttpClient) {
     //this.url = getBaseUrl() + new TCreator().constructor.name;
-    this.url = getBaseUrl() + "AnimalType";
   }
 
   /** GET heroes from the server */
@@ -40,7 +39,7 @@ export abstract class ServiceBase<T extends Entity> {
   }
 
   /** GET hero by id. Will 404 if id not found */
-  GetById(id: number): Observable<T> {
+  GetById(id: string): Observable<T> {
     const url = `${this.url}/${id}`;
     return this.http.get<T>(url).pipe(
       catchError(this.handleError<T>(`getHero id=${id}`))
@@ -61,10 +60,8 @@ export abstract class ServiceBase<T extends Entity> {
   //////// Save methods //////////
 
   /** POST: add a new hero to the server */
-  Add(entity: T): Observable<T> {
-    return this.http.post<T>(this.url, entity, this.httpOptions).pipe(
-      catchError(this.handleError<T>('addHero'))
-    );
+  Add(entity: T){
+    this.http.post<T>(this.url, entity, this.httpOptions).subscribe();
   }
 
   /** DELETE: delete the hero from the server */

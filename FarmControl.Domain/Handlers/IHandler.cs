@@ -1,9 +1,9 @@
 ﻿namespace FarmControl.Domain.Handlers
 {
-	public interface IHandler<T> where T : class
+	public interface IHandler<T, TDto>
 	{
-		public void Update(T entity);
-		public void Add(T entity);
-		public void Delete(T entity);
+		public void Update(TDto entity);
+		public void Add(TDto entity);
+		public void Delete(TDto entity);
 	}
 }

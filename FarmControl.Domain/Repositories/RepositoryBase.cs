@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading.Tasks;
 
 namespace FarmControl.Domain.Repositories
 {
@@ -15,9 +16,9 @@ namespace FarmControl.Domain.Repositories
 			UnitOfWork = unitOfWork;
 		}
 
-		public T GetById(Guid id)
+		public async Task<T> GetById(Guid id)
 		{
-			return UnitOfWork.Context.Set<T>().Find(id);
+			return await UnitOfWork.Context.Set<T>().FindAsync(id);
 		}
 
 		public IEnumerable<T> GetAll()
@@ -38,11 +39,6 @@ namespace FarmControl.Domain.Repositories
 		public void Delete(T entity)
 		{
 			UnitOfWork.Context.Set<T>().Remove(entity);
-		}
-
-		public void Save()
-		{
-			UnitOfWork.Context.SaveChanges();
 		}
 	}
 

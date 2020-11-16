@@ -13,3 +13,6 @@ C:\Development\FarmControl\FarmControl.Domain\obj\Debug\net5.0\ref\FarmControl.D
 C:\Development\FarmControl\FarmControl.Domain\obj\Debug\net5.0\FarmControl.Domain.pdb
 C:\Development\FarmControl\FarmControl.Domain\obj\Debug\net5.0\FarmControl.Domain.genruntimeconfig.cache
 C:\Development\FarmControl\FarmControl.Domain\obj\Debug\net5.0\FarmControl.Domain.csprojAssemblyReference.cache
+C:\Development\FarmControl\FarmControl.Domain\bin\Debug\net5.0\FarmControl.Data.dll
+C:\Development\FarmControl\FarmControl.Domain\bin\Debug\net5.0\FarmControl.Data.pdb
+C:\Development\FarmControl\FarmControl.Domain\obj\Debug\net5.0\FarmControl.Domain.csproj.CopyComplete

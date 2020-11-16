@@ -65,3 +65,8 @@ C:\Development\FarmControl\FarmControl.Service\obj\Debug\net5.0\FarmControl.Serv
 C:\Development\FarmControl\FarmControl.Service\obj\Debug\net5.0\ref\FarmControl.Service.dll
 C:\Development\FarmControl\FarmControl.Service\obj\Debug\net5.0\FarmControl.Service.pdb
 C:\Development\FarmControl\FarmControl.Service\obj\Debug\net5.0\FarmControl.Service.genruntimeconfig.cache
+C:\Development\FarmControl\FarmControl.Service\bin\Debug\net5.0\FarmControl.Data.dll
+C:\Development\FarmControl\FarmControl.Service\bin\Debug\net5.0\FarmControl.Data.pdb
+C:\Development\FarmControl\FarmControl.Service\bin\Debug\net5.0\AutoMapper.dll
+C:\Development\FarmControl\FarmControl.Service\bin\Debug\net5.0\Unity.Abstractions.dll
+C:\Development\FarmControl\FarmControl.Service\bin\Debug\net5.0\Unity.Container.dll
