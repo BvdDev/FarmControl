@@ -5,16 +5,17 @@ import { HttpClientModule } from '@angular/common/http';
 import { RouterModule } from '@angular/router';
 
 import { AppComponent } from './app.component';
-import { NavMenuComponent } from './nav-menu/nav-menu.component';
+import { HeaderComponent } from './HeaderComponent/HeaderComponent';
 import { HomeComponent } from './home/home.component';
 import { FetchDataComponent } from './fetch-data/fetch-data.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    NavMenuComponent,
+    HeaderComponent,
     HomeComponent,
-    FetchDataComponent
+    FetchDataComponent,
+    HeaderComponent
   ],
   imports: [
     BrowserModule.withServerTransition({ appId: 'ng-cli-universal' }),
@@ -25,7 +26,6 @@ import { FetchDataComponent } from './fetch-data/fetch-data.component';
       { path: 'fetch-data', component: FetchDataComponent },
     ])
   ],
-  providers: [  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

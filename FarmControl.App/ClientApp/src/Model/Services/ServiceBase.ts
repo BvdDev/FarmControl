@@ -3,11 +3,10 @@ import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { Observable, of } from 'rxjs';
 import { catchError, map, tap } from 'rxjs/operators';
 import { Entity } from '../Entity';
-import { getBaseUrl } from '../../main';
 
 export abstract class ServiceBase<T extends Entity> {
 
-  private url = getBaseUrl() + "AnimalType";
+  private url = "AnimalType";
 
   httpOptions = {
     headers: new HttpHeaders({ 'Content-Type': 'application/json; charset=utf-8' })
